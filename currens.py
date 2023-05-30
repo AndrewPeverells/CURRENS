@@ -7,7 +7,7 @@ from removeStopwords import removeStopwords
 from EncliticsHandler import EncliticsHandler
 
 #Insert your text here
-with open('', 'r') as file:
+with open('Path/to/your/file.txt', 'r') as file:
     text = file.read()
 
 # Choices
