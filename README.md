@@ -33,7 +33,7 @@ HOW TO USE THE PROGRAM
 1. Download the whole folder and store locally
 2. Open the currens.py file in a Python environment editor (VSCode, Sublime, Atom, Anaconda, Jupyter...)
 3. At line 10:
-```with open('', 'r') as file:```
+```with open('Path/to/your/file.txt', 'r') as file:```
 insert the full path of your text file (in txt format)
 4. A prompt will appear in your consol that asks you to make choices for the main three modules of CURRENS (archaisms, stopwords and enclitics handler):
 
