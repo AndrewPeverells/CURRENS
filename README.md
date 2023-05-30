@@ -30,11 +30,11 @@ The program is completely free and open access. We kindly ask you to cite this G
 
 HOW TO USE THE PROGRAM
 
-1. Download the whole folder and store locally
-2. Open the currens.py file in a Python environment editor (VSCode, Sublime, Atom, Anaconda, Jupyter...)
+1. Download the whole folder and store locally.
+2. Open the currens.py file in a Python environment editor (VSCode, Sublime, Atom, Anaconda, Jupyter...).
 3. At line 10:
 ```with open('Path/to/your/file.txt', 'r') as file:```
-insert the full path of your text file (in txt format)
+insert the full path of your text file (in txt format).
 4. A prompt will appear in your consol asking you to make choices for the three optional modules of CURRENS (archaisms, stopwords and enclitics handler):
 
 ![currens tutorial](https://github.com/AndrewPeverells/CURRENS/assets/45845685/56b83004-f920-4b6f-a348-e0929be62fba)
