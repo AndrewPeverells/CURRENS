@@ -39,4 +39,5 @@ insert the full path of your text file (in txt format)
 ![currens tutorial](https://github.com/AndrewPeverells/CURRENS/assets/45845685/56b83004-f920-4b6f-a348-e0929be62fba)
 
 Type yes or no in the console for each.
+
 5. You should have now a txt file called "temp" in the CURRENS folder. This is the output file of the cleaned text after the process.
