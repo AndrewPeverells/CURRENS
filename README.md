@@ -20,9 +20,9 @@ The program includes 4 main modules that address different issues.
 ---
 
 Developed and maintained by:
-Andrea Peverelli, junior researcher and PhD candidate in Digital Humanities for the Translatin Project (PI: Jan Bloemendal) at the Huygens Institute, KNAW Humanities Cluster, Amsterdam (Netherlands)
 
-Alessandro Rossi, Politecnico di Milano, Dipartimento di Ingegneria Informatica (Computer Engineering Department)
+- Andrea Peverelli, junior researcher and PhD candidate in Digital Humanities for the Translatin Project (PI: Jan Bloemendal) at the Huygens Institute, KNAW Humanities Cluster, Amsterdam (Netherlands)
+- Alessandro Rossi, Politecnico di Milano, Dipartimento di Ingegneria Informatica (Computer Engineering Department)
 
 The program is completely free and open access. We kindly ask you to cite this GitHub repository and the authors for reference in your own research if you end up using CURRENS.
 
