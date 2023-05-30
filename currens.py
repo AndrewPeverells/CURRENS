@@ -6,10 +6,11 @@ from ArchaismsHandler import ArchaismsHandler
 from removeStopwords import removeStopwords
 from EncliticsHandler import EncliticsHandler
 
-with open('C:/Translatin/prodigal_son/corpus/corpus preprocessed/bla.txt', 'r') as file:
+#Insert your text here
+with open('', 'r') as file:
     text = file.read()
 
-# Scelte
+# Choices
 archaismschoice = None
 stopwordschoice = None
 
@@ -58,26 +59,3 @@ for element in textlist:
 
 with open('./temp.txt', 'w') as f:
     f.write(text)
-
-
-
-""""
-latin_replacements = [
-        (r"\bmecum\b", "cum me"),
-        (r"\btecum\b", "cum te"),
-        (r"\bsecum\b", "cum se"),
-        (r"\bnobiscum\b", "cum nobis"),
-        (r"\bvobiscum\b", "cum vobis"),
-        (r"\buobiscum\b", "cum uobis"),
-        (r"\bquocum\b", "cum quo"),
-        (r"\bquacum\b", "cum qua"),
-        (r"\bquicum\b", "cum qui"),
-        (r"\bquibuscum\b", "cum quibus"),
-        (r"\bsodes\b", "si audes"),
-        (r"\bsatin\b", "satis ne"),
-        (r"\bscin\b", "scis ne"),
-        (r"\bsultis\b", "si vultis"),
-        (r"\bsimilist\b", "similis est"),
-        (r"\bqualist\b", "qualis est"),
-    ]"""
-
