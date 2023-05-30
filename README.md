@@ -35,7 +35,7 @@ HOW TO USE THE PROGRAM
 3. At line 10:
 ```with open('Path/to/your/file.txt', 'r') as file:```
 insert the full path of your text file (in txt format)
-4. A prompt will appear in your consol that asks you to make choices for the main three modules of CURRENS (archaisms, stopwords and enclitics handler):
+4. A prompt will appear in your consol asking you to make choices for the three optional modules of CURRENS (archaisms, stopwords and enclitics handler):
 
 ![currens tutorial](https://github.com/AndrewPeverells/CURRENS/assets/45845685/56b83004-f920-4b6f-a348-e0929be62fba)
 
