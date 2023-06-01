@@ -20,7 +20,7 @@ The program includes 4 main modules that address different issues.
   Still to do: *ont-*unt, med-me, *ostr*-*estr*, uelt-uult, *umus-*imus/*ume-*ime/*uma*-*ima*, *oncul*-*uncul*, *ube-*ibe, *issum*-*issim*, quoi*-cui*, acherun*-acheron*
 - Stopwords handler
 
-  Removes stopwords from a custom build list of Latin stopwords (from the folder "cartellastopwords", divided per letter). You can add your own custom stopwords to the files.
+  Removes stopwords from a custom built list of Latin stopwords (from the folder "cartellastopwords", divided per letter). You can add your own custom stopwords to the files.
 
 ---
 
