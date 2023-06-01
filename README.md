@@ -8,7 +8,8 @@ The program includes 4 main modules that address different issues.
 
 - General module
 
-  Orthography issues: a tokenizer, j > i, v > u, elimination of punctuation, roman and arabic numerals and non UTF-8 symbols, replacer of every capital letter into non capital...
+  Orthography issues: tokenizer, j > i, v > u, elimination of punctuation and of roman and arabic numerals and non UTF-8 symbols, replacer of every capital letter into non capital.
+  
   (Optional)
 - Enclitics handler
 
