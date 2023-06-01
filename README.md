@@ -7,14 +7,18 @@ CURRENS is a custom written program that addresses the issue of having to deal w
 The program includes 4 main modules that address different issues.
 
 - General module
+
   Orthography issues: a tokenizer, j > i, v > u, elimination of punctuation, roman and arabic numerals and non UTF-8 symbols, replacer of every capital letter into non capital...
   (Optional)
 - Enclitics handler
+
   Splits the enclitic from the root word. Exceptions are handled through a list of custom written exception words for every main Latin enclitic (que, ne-n, st, ue-ve: CartellaQueExceptions, CartellaNeExceptions, CartellaNExceptions, CartellaStExceptions, CartellaUeExceptions, CartellaVeExceptions).
 - Archaisms handler
+
   Translates archaisms into classical Latin variants.
   Still to do: *ont-*unt, med-me, *ostr*-*estr*, uelt-uult, *umus-*imus/*ume-*ime/*uma*-*ima*, *oncul*-*uncul*, *ube-*ibe, *issum*-*issim*, quoi*-cui*, acherun*-acheron*
 - Stopwords handler
+
   Removes stopwords from a custom build list of Latin stopwords (from the folder "cartellastopwords", divided per letter). You can add your own custom stopwords to the files.
 
 ---
